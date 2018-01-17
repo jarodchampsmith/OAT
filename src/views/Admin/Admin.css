@@ -1,0 +1,42 @@
+div.q-data-table > .upper-toolbar:nth-child(1) {
+	display: none;
+}
+
+.autocomplete-clear {
+	position: absolute;
+	right: 0px;
+	top: 8px;
+}
+
+.m-t-n-5 {
+	margin-top: -5px !important;
+}
+
+.m-t-2 {
+	margin-top: 2px;
+}
+
+.m-r-10 {
+	margin-right: 10px;
+}
+
+.m-t-5 {
+	margin-top: 5px;
+}
+
+.m-t-10 {
+	margin-top: 10px !important;
+}
+
+.m-10 {
+	margin: 10px;
+}
+
+/* .floating-label {
+	margin-top: 8px;
+}
+*/
+
+.border-right {
+	border-right: 2px solid #e0e0e0;
+}

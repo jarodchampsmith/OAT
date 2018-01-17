@@ -1,0 +1,13 @@
+.mf-defect {
+	& input[type="text"] {
+		width: 100%;
+	}
+
+	& .defect-button {
+		margin: 8px;
+	}
+
+	& .add-part {
+		margin: 8px !important;
+	}
+}

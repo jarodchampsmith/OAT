@@ -1,0 +1,23 @@
+@import 'settings.css';
+
+[id="loginForm"] {
+	margin: 0 auto;
+	max-width: 640px;
+	text-align: center;
+
+	& .big-logo {
+		margin: 1rem 0 2rem;
+		max-width: 400px;
+		width: 100%;
+	}
+
+	& input {
+		margin-bottom: 1rem;
+		width: 100%;
+	}
+
+	& button.clear.primary,
+	& button.primary.disabled {
+		display: none;
+	}
+}
